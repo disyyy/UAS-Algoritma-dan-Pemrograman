@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\bin\Debug\net8.0-windows\AplikasiPemesananTiket.exe
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\bin\Debug\net8.0-windows\AplikasiPemesananTiket.deps.json
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\bin\Debug\net8.0-windows\AplikasiPemesananTiket.runtimeconfig.json
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\bin\Debug\net8.0-windows\AplikasiPemesananTiket.dll
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\bin\Debug\net8.0-windows\AplikasiPemesananTiket.pdb
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.FormPemesananTiket.resources
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.Properties.Resources.resources
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.AssemblyInfo.cs
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.dll
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\refint\AplikasiPemesananTiket.dll
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.pdb
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\AplikasiPemesananTiket.genruntimeconfig.cache
+C:\Users\Asus\source\repos\AplikasiPemesananTiket\AplikasiPemesananTiket\obj\Debug\net8.0-windows\ref\AplikasiPemesananTiket.dll
